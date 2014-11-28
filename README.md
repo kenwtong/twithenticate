@@ -54,6 +54,6 @@ def main():
 	
 if __name__ == '__main__':
     sys.exit(main())
-'''
+```
 
 Documentation for [GET statuses/user_timeline](https://dev.twitter.com/rest/reference/get/statuses/user_timeline)
